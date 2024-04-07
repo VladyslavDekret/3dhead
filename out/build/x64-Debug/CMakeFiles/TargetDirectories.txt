@@ -1,0 +1,3 @@
+C:/Korysne/naukma/docs/3dhead/out/build/x64-Debug/CMakeFiles/3dhead.dir
+C:/Korysne/naukma/docs/3dhead/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Korysne/naukma/docs/3dhead/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+# ninja log v5
+9	330	7342236540689073	CMakeFiles/3dhead.dir/tgaimage.cpp.obj	104d01dc66336af9
+17	351	7342236541003239	CMakeFiles/3dhead.dir/geometry.cpp.obj	9261d1ef3df792a1
+5	508	7342236542578277	CMakeFiles/3dhead.dir/main.cpp.obj	b63d432ff63ce26d
+13	411	7342236541483434	CMakeFiles/3dhead.dir/model.cpp.obj	145496e536f6fae7
+510	744	7342236544785988	3dhead.exe	415f7847d0bbb439
